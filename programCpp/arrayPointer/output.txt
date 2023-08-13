@@ -1,0 +1,4 @@
+The address : 0x7fd1d9c059a0 store the number : 3
+The address : 0x7fd1d9c059a4 store the number : 2
+The address : 0x7fd1d9c059a8 store the number : 1
+The address : 0x7fd1d9c059ac store the number : 5

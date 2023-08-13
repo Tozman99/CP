@@ -1,0 +1,18 @@
+
+In learning C++, the most important concepts : 
+
+=> Type safety
+=> ressource management
+=> invariants
+
+Important Programming techniques : 
+
+=> ressource management using scoped objects 
+=> use of iterators in algorithms 
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!! DO NOT GET LOST IN LANGUAGE DETAILS !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1
+
+=> Try to understand to core principle of a systems , understand the design !!!!!
+
+
